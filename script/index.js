@@ -35,12 +35,6 @@ $(document).ready(() => {
 })
 
 const scrollEvent = () => {
-    if(!ifInWindow('header').percent) {
-        $('html').css('background', '#000');
-    }
-    else{
-        $('html').css('background', '#F3F5F8');
-    }
     if(ifInWindow(".mumo-text").stat) {
         const win = ifInWindow(".mumo-text");
         $('.black-box').width(information.blackBoxWidth * (0.85 - win.percent));
