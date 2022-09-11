@@ -1,0 +1,14 @@
+<div class="menu">
+    <a href="/"><div class="logo"></div></a>
+    <div class="location">
+        <a href="/" class="lc-btn"><div class="location-btn home">HOME</div></a>
+        <a href="/projects" class="lc-btn"><div class="location-btn project">PROJECTS</div></a>
+        <a href="/members" class="lc-btn"><div class="location-btn member">MEMBERS</div></a>
+    </div>
+</div>
+<script>
+    const path = location.pathname;
+    if(path == '/') $('.home').css('color', 'var(--main-color)');
+    else if(path == '/projects') $('.project').css('color', 'var(--main-color)');
+    else if(path == '/members') $('.member').css('color', 'var(--main-color)');
+</script>
