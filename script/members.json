@@ -1,0 +1,84 @@
+[
+    [
+        {
+            "name": "권은채",
+            "part": "Designer",
+            "dec": "되고자 하는 모습을 구체적으로 상상해라,<br>상상하는 만큼 실현 된다",
+            "img": "/img/members/1/eunchai.jpg"
+        },
+        {
+            "name": "김민성",
+            "part": "Developer",
+            "dec": "<del>인생은 마음대로 되지 않는 법이란다</del><br>모든 경험은 나를 위한 양분이 된다",
+            "img": "/img/members/1/minsung.png"
+        },
+        {
+            "name": "장인화",
+            "part": "Developer",
+            "dec": "예술을 합시다!<br><br>",
+            "img": "/img/members/1/inhwa.png"
+        },
+        {
+            "name": "윤희원",
+            "part": "Project Manager",
+            "dec": "일단 해보자!<br><br>",
+            "img": "/img/members/1/heewon.jpg"
+        },
+        {
+            "name": "오민용",
+            "part": "Developer",
+            "dec": "개발을 합시다<br><br>",
+            "img": "/img/members/1/minyong.jpg"
+        },
+        {
+            "name": "박두고",
+            "part": "Developer",
+            "dec": "허심탄회하게 살자<br><br>",
+            "img": "/img/members/1/dogo.jpg"
+        },
+        {
+            "name": "주자훈",
+            "part": "Project Manager",
+            "dec": "항상 긍정의 힘을 믿으며<br>앞으로 나아갑니다",
+            "img": "/img/members/1/jahoon.jpg"
+        }
+    ],
+    [
+        {
+            "name": "이지민",
+            "part": "???",
+            "dec": "희희<br><br>",
+            "img": ""
+        },
+        {
+            "name": "조승우",
+            "part": "???",
+            "dec": "희희<br><br>",
+            "img": ""
+        },
+        {
+            "name": "최호연",
+            "part": "???",
+            "dec": "희희<br><br>",
+            "img": ""
+        },
+        {
+            "name": "배서은",
+            "part": "???",
+            "dec": "희희<br><br>",
+            "img": ""
+        },
+        {
+            "name": "배서현",
+            "part": "???",
+            "dec": "희희<br><br>",
+            "img": ""
+        },
+        {
+            "name": "강수민",
+            "part": "???",
+            "dec": "희희<br><br>",
+            "img": ""
+        }
+    ]
+]

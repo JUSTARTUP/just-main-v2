@@ -33,7 +33,6 @@ $(document).ready(() => {
         delay: 0 + start,
     });
 })
-
 const scrollEvent = () => {
     if(ifInWindow(".mumo-text").stat) {
         const win = ifInWindow(".mumo-text");
