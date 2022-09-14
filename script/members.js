@@ -16,7 +16,7 @@ $.ajax({
                         <div class="members-box members-box-${j} ${j == data[i - 1].length - 1 ? `members-box-end` : ``}">
                             <div class="members-inner">
                                 <div class="members-name">${data[i - 1][j].name} | ${data[i - 1][j].part}</div>
-                                <div class="members-img" style="
+                                <div class="members-img members-img-${i}-${j}" style="
                                 background: url('${data[i - 1][j].img == '' ? '/img/members/5justGradation.jpg' : data[i - 1][j].img}');
                                 background-size: cover;
                                 background-position: center;
@@ -26,6 +26,9 @@ $.ajax({
                             </div>
                         </div>
                 `);
+                $(`.members-img-${i}-${j}`).on('click', () => {
+                    window.open(data[i - 1][j].link);
+                })
                 cnt++;
             }
         }

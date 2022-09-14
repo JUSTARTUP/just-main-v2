@@ -315,6 +315,10 @@ a{
     height: 300px;
     border-radius: 30px;
     background: #F3F5F8;
+    cursor: pointer;
+}
+.members-img:hover{
+    transform: scale(110%);
 }
 .members-name{
     font-size: 30px;

@@ -4,81 +4,101 @@
             "name": "권은채",
             "part": "Designer",
             "dec": "되고자 하는 모습을 구체적으로 상상해라,<br>상상하는 만큼 실현 된다",
-            "img": "/img/members/1/eunchai.jpeg"
+            "img": "/img/members/20/eunchai.jpeg",
+            "link": "https://www.instagram.com/_01527/"
         },
         {
             "name": "김민성",
             "part": "Developer",
             "dec": "<del>인생은 마음대로 되지 않는 법이란다</del><br>모든 경험은 나를 위한 양분이 된다",
-            "img": "/img/members/1/minsung.png"
+            "img": "/img/members/20/minsung.png",
+            "link": "https://www.instagram.com/mingsung_521/"
         },
         {
             "name": "장인화",
             "part": "Developer",
             "dec": "예술을 합시다!<br><br>",
-            "img": "/img/members/1/inhwa.png"
+            "img": "/img/members/20/inhwa.png",
+            "link": "https://www.instagram.com/uglyonlytoday/"
         },
         {
             "name": "윤희원",
             "part": "Project Manager",
             "dec": "일단 해보자!<br><br>",
-            "img": "/img/members/1/heewon.jpg"
+            "img": "/img/members/20/heewon.jpg",
+            "link": "https://www.instagram.com/uniony721/"
         },
         {
             "name": "오민용",
             "part": "Developer",
             "dec": "개발을 합시다<br><br>",
-            "img": "/img/members/1/minyong.jpg"
+            "img": "/img/members/20/minyong.jpg",
+            "link": "https://www.instagram.com/minyong4992/"
         },
         {
             "name": "박두고",
             "part": "Developer",
             "dec": "허심탄회하게 살자<br><br>",
-            "img": "/img/members/1/dogo.jpg"
+            "img": "/img/members/20/dogo.jpg",
+            "link": "https://www.instagram.com/start_just_up/"
         },
         {
             "name": "주자훈",
             "part": "Project Manager",
             "dec": "항상 긍정의 힘을 믿으며<br>앞으로 나아갑니다",
-            "img": "/img/members/1/jahoon.jpg"
+            "img": "/img/members/20/jahoon.jpg",
+            "link": "https://www.instagram.com/ja_hoon_05/"
         }
     ],
     [
         {
+            "name": "최재민",
+            "part": "Developer",
+            "dec": "지금의 실패를 미래의 성공으로<br><br>",
+            "img": "/img/members/21/cjm.jpg",
+            "link": "https://jeamxn.dev"
+        },
+        {
             "name": "이지민",
             "part": "???",
             "dec": "희희<br><br>",
-            "img": ""
+            "img": "",
+            "link": "https://www.instagram.com/zimini._/"
         },
         {
             "name": "조승우",
             "part": "???",
             "dec": "희희<br><br>",
-            "img": ""
+            "img": "",
+            "link": ""
         },
         {
             "name": "최호연",
             "part": "???",
             "dec": "희희<br><br>",
-            "img": ""
+            "img": "/img/members/21/chy.jpeg",
+            "link": ""
         },
         {
             "name": "배서은",
             "part": "???",
             "dec": "희희<br><br>",
-            "img": ""
+            "img": "/img/members/21/bsy.jpeg",
+            "link": "https://www.instagram.com/s_ay1ov_e/"
         },
         {
             "name": "배서현",
             "part": "???",
             "dec": "희희<br><br>",
-            "img": ""
+            "img": "",
+            "link": "https://www.instagram.com/rudieox__/"
         },
         {
             "name": "강수민",
             "part": "???",
             "dec": "희희<br><br>",
-            "img": ""
+            "img": "",
+            "link": ""
         }
     ]
 ]
