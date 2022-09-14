@@ -336,7 +336,7 @@ a{
     margin: auto 100px auto 20px;
 }
 .members-page{
-    background: url(/img/students.jpg);
+    /* background: url(/img/students.jpg); */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
